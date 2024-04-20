@@ -1,5 +1,5 @@
 ### 나는야 이나경이다. 👋👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+HI+I'm+nakyung;Second+SUNGSHIN+W.Univ;Third+NOW+SOPT+34)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+I'm+nakyung;Stuyding+Computer+Engineering+at+SUNGSHIN+W.Univ;NOW+SOPT+34+ANDROID)](https://git.io/typing-svg)
 
 <!--
 
